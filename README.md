@@ -61,4 +61,4 @@ Foreign Visitor Expansion: Work on promoting tourism to districts like Mancheria
 
 Data Enrichment: For more accurate projections and recommendations, consider including district population data in the analysis.
 
-# The "Telangana Government Tourism Analysis" project provides a valuable roadmap for the Telangana government to make informed decisions and boost the tourism sector's contribution to the state's economy.
+## The "Telangana Government Tourism Analysis" project provides a valuable roadmap for the Telangana government to make informed decisions and boost the tourism sector's contribution to the state's economy.
